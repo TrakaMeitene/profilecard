@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+<div class="flex">
+<div class="bumba1"></div>
+<div class="logs">
+<div class="head"></div>
+<div class="bilde"></div>
+<div class="teksts"><p class="h1">Victor Crest</p> <p>26</p>
+<p>London</p></div>
+<div class="cipari">
+<div class="wtf">80K <p>Followers<p></div>
+<div class="wtf">803K<P>Likes</p></div>
+<div class="wtf">1.4K<p>Photos</p></div>
+</div>
+</div>
+<div class="bumba2"></div>
+
+</div>
+</body>
+</html>
